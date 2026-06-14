@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Confirm Navigation - SpeedBump</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="confirm-page">
+  <div class="confirm-container">
+    <div class="confirm-icon">⚠️</div>
+    <h1>Are you sure?</h1>
+    <div class="confirm-details">
+      <p class="rule-info">Matched rule: <strong id="matched-rule"></strong></p>
+      <p class="url-info">Target URL: <span id="target-url"></span></p>
+    </div>
+    <p class="confirm-question">Are you sure you want to load this page?</p>
+    <div class="button-container">
+      <button id="cancel-btn" class="btn btn-primary">No way!</button>
+      <button id="confirm-btn" class="btn btn-secondary">Yes, continue...</button>
+    </div>
+  </div>
+  <script src="confirm.js"></script>
+</body>
+</html>

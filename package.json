@@ -1,0 +1,12 @@
+{
+  "name": "speedbump",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "web-ext build",
+    "dev": "web-ext run"
+  },
+  "devDependencies": {
+    "web-ext": "^8.0.0"
+  }
+}

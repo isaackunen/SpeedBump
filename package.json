@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "web-ext build",
+    "build": "web-ext build --overwrite-dest",
     "dev": "web-ext run"
   },
   "devDependencies": {

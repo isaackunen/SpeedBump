@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "SpeedBump",
-  "version": "0.1",
+  "version": "1.0",
   "description": "Confirm before loading specific websites",
   "permissions": [
     "webRequest",

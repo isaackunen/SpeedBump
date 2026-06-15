@@ -52,7 +52,10 @@ Absolutely not.
 
 I'm not taking any pull requests directly. But please fork and
 let me know if you've done something cool in the GitHub 
-Discussion.
+Discussion. 
+
+Note that the GitHub repo is a read-only mirror; development is
+done in a private repo hosted elsewhere.
 
 ### Is this vibe coded?
 
